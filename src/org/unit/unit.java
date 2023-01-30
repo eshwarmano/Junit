@@ -10,6 +10,8 @@ public class unit {
 		System.out.println("07071999");
 		System.out.println("07071999");
 		System.out.println("lucky");
+		System.out.println("lucky");
+		System.out.println("lucky");
 		
 		
 		
