@@ -12,6 +12,8 @@ public class unit {
 		System.out.println("lucky");
 		System.out.println("lucky");
 		System.out.println("lucky");
+		System.out.println("lucky");
+		System.out.println("licks");
 		
 		
 		
